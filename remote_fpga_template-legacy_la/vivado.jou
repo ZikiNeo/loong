@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Tue Jul  7 11:04:48 2026
+# Process ID: 33176
+# Current directory: D:/BaiduNetdiskDownload/remote_fpga_template-legacy_la
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent724 D:\BaiduNetdiskDownload\remote_fpga_template-legacy_la\thinpad_top.xpr
+# Log file: D:/BaiduNetdiskDownload/remote_fpga_template-legacy_la/vivado.log
+# Journal file: D:/BaiduNetdiskDownload/remote_fpga_template-legacy_la\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/BaiduNetdiskDownload/remote_fpga_template-legacy_la/thinpad_top.xpr
+update_compile_order -fileset sources_1
